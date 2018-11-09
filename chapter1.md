@@ -40,3 +40,29 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 0abadf4a54
+xp: 50
+```
+
+`@projector_key`
+187709ab0714864088945a8ebf8e62ba
+
+---
+
+## Spreadsheet Foundations
+
+```yaml
+type: VideoExercise
+key: e58fba4bd7
+xp: 50
+```
+
+`@projector_key`
+e51ae04f13cc2c4004e7fd2c960417b3
